@@ -16,7 +16,7 @@ This Blender plugin allows you to import existing JBeam parts or whole vehicles,
 * Export changes directly to disk
 
 ## Start BeamBlender.exe to set up
-and follow the setup instructions
+and follow the setup instructions, and note that windows defender may detect this as a virus, as it injects into beam ng's code. if anything breaks, run the exe file again.
 
 <br>
 
